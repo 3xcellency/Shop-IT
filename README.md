@@ -8,7 +8,8 @@ This repository contains an iOS Shop IT project that utilizes reactive and moder
 
 * [RxSwift](https://github.com/ReactiveX/RxSwift)
 * [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire)
-* [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher)
+* [Alamofire](https://github.com/Alamofire/Alamofire)
+* [Kingfisher](https://github.com/onevcat/Kingfisher)
 * [SPIndicator](https://github.com/ivanvorobei/SPIndicator)
 
 
