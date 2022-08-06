@@ -34,10 +34,14 @@ class ViewController: UIViewController {
             DispatchQueue.main.async { self.showAlert("Ops, something went wrong.") }
         }
         viewModel.showLoading = {
-            DispatchQueue.main.async { self.activityIndicator.startAnimating() }
+            DispatchQueue.main.async {
+                self.activityIndicator.startAnimating()
+                self.activityIndicator.isHidden = false }
         }
         viewModel.hideLoading = {
-            DispatchQueue.main.async { self.activityIndicator.isHidden = true }
+            DispatchQueue.main.async {
+                self.activityIndicator.stopAnimating()
+                self.activityIndicator.isHidden = true }
         }
         //Badge güncelleme
         viewModel.updateCartBadge = {
