@@ -1,6 +1,6 @@
 # Shop IT Application
 
-![Application](https://github.com/3xcellency/Shop-IT/raw/Shop-IT/ozan.gif)
+![Application](https://github.com/3xcellency/Shop-IT/raw/Shop-IT/shop.gif)
 
 This repository contains an iOS Shop IT project that utilizes reactive and modern components.
 
