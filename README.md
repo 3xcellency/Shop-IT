@@ -1,13 +1,13 @@
 # Shop IT Application
 
-![Application](https://github.com/3xcellency/Shop-IT/raw/Shop-IT/shop.gif)
+![Application](https://github.com/3xcellency/Shop-IT/blob/main/shop.gif)
 
 This repository contains an iOS Shop IT project that utilizes reactive and modern components.
 
 ### Dependencies Used
 
 * [RxSwift](https://github.com/ReactiveX/RxSwift)
-* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire))
+* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire)
 * [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher)
 * [SPIndicator](https://github.com/ivanvorobei/SPIndicator)
 
