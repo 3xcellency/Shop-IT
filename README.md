@@ -2,7 +2,7 @@
 
 ![Application](https://github.com/3xcellency/MovieBrowser/raw/MovieBrowser/ozan.gif)
 
-This repository contains an iOS Movie browser project that utilizes reactive and modern components.
+This repository contains an iOS Shop IT project that utilizes reactive and modern components.
 
 ### Dependencies Used
 
@@ -33,7 +33,7 @@ We're done with installing dependencies.
 Open the project on Xcode by executing the following command:
 
 ```bash
-open Shop-IT.xcworkspace
+open Shop IT.xcworkspace
 ```
 
 After the Xcode window appears click run button to launch the application.
